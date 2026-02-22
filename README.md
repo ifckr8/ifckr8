@@ -6,7 +6,7 @@
 <a href=https://x.com/ifckr8 rel=me>x.com</a></p>
 
 <h2>@ifckr</h2>
-<p><a href=https://ifckr.com rel=me>.ifckr.com</a>
+<p><a href=https://ifckr.com rel=me>ifckr.com</a>
 <a href=https://www.pinterest.com/ifckr rel=me>pinterest</a>
 <a href=https://www.instagram.com/ifckr rel=me>instagram</a>
 <a href=https://www.reddit.com/user/ifckr rel=me>reddit</a>
